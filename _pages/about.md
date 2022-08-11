@@ -17,6 +17,8 @@ My PhD thesis was on "[The Locality-First Strategy for Developing Efficient Mult
 
 During my Ph.D., I was lucky to spend time at [NVIDIA Research](https://www.nvidia.com/en-us/research/) with [Dr. Michael Pellauer](https://research.nvidia.com/person/michael-pellauer), [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/) with [Dr. Nuno Lopes](https://web.ist.utl.pt/nuno.lopes/), [ENS Lyon](http://www.ens-lyon.fr/) with the [ROMA group](http://www.ens-lyon.fr/LIP/ROMA/), and [Sandia National Laboratories](https://www.sandia.gov/) with [Dr. Cynthia Phillips](https://cfwebprod.sandia.gov/cfdocs/CompResearch/templates/insert/profile.cfm?caphill).
 
+I received a B.S. in Computer Science from [Stony Brook University](https://www.cs.stonybrook.edu/), where I was fortunate to be advised by [Prof. Michael Bender](https://www3.cs.stonybrook.edu/~bender/).
+
 Here is a recent copy of my [CV](https://itshelenxu.github.io/files/CV.pdf) (updated 8-10-2022).
 
 I am always looking for new collaborators. Please don't hesistate to reach out if you'd like to hear more about my work, start a new collaboration, or spend a summer with me at Berkeley Lab! The best way to contact me is via <a href = "mailto: hjxu@lbl.gov">email</a>.
