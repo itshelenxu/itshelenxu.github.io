@@ -50,7 +50,7 @@ SIAM Symposium on Algorithmic Principles of Computer Systems (APOCS), 2021.
 ACM Symposium on Parallelism in Algorithms and Architectures (SPAA), 2020.      
 [pdf](https://itshelenxu.github.io/files/papers/ca-spaa-20.pdf){: .btn} [ACM](https://dl.acm.org/doi/abs/10.1145/3350755.3400274){: .btn}
 
-1. <span style="color:blue">**[SPAA '18]**</span> *Closing the Gap Between Cache-oblivious and Cache-adaptive Analysis.*     
+1. <span style="color:blue">**[SPAA '18]**</span> *Cache-Adaptive Exploration: Experimental Results and Scan-Hiding for Adaptivity.*     
 (in alphabetical order)  Andrea Lincoln, Quanquan C. Liu, Jayson Lynch, and
   **Helen Xu**.      
 ACM Symposium on Parallelism in Algorithms and Architectures (SPAA), 2018.      
