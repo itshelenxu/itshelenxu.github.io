@@ -9,8 +9,7 @@ Publications are listed in reverse chronological order. The most up-to-date list
 
 ## Conference publications
 1. <span style="color:blue">**[ALENEX '23]**</span> *Optimizing Search Layouts in Packed Memory Arrays.*
-Brian Wheatman, Randal Burns, Aydın Buluç, and **Helen Xu**.
-
+Brian Wheatman, Randal Burns, Aydın Buluç, and **Helen Xu**.     
 (to appear) SIAM Symposium on Algorithm Engineering and Experiments (ALENEX), 2023.     
 
 1. <span style="color:blue">**[ESA '22]**</span> *When Are Cache-Oblivious Algorithms Cache Adaptive? A Case Study of Matrix Multiplication and Sorting.*      
@@ -22,8 +21,7 @@ Abiyaz Chowdhury,
 [Rob Johnson](https://scholar.google.com/citations?user=YYcTN2EAAAAJ&hl=en), 
 [Rishab Nithyanand](https://cs.uiowa.edu/people/rishab-nithyanand), 
 and [Michael A. Bender](https://www3.cs.stonybrook.edu/~bender/).      
-European Symposium on Algorithms (ESA), 2022.
-
+European Symposium on Algorithms (ESA), 2022.     	
 [pdf](https://itshelenxu.github.io/files/papers/ca-esa-22.pdf){: .btn}
 
 1. <span style="color:blue">**[ACDA '21]**</span> *Multidimensional  Included and Excluded Sums.*      
