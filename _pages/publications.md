@@ -8,7 +8,7 @@ author_profile: true
 Publications are listed in reverse chronological order. The most up-to-date list of my publications can be found on my [Google Scholar profile](https://scholar.google.com/citations?user=ZcguQt4AAAAJ&hl=en).
 
 ## Conference publications
-1. <span style="color:blue">**[ALENEX '23]**</span> *Optimizing Search Layouts in Packed Memory Arrays.*
+1. <span style="color:blue">**[ALENEX '23]**</span> *Optimizing Search Layouts in Packed Memory Arrays.*      
 Brian Wheatman, Randal Burns, Aydın Buluç, and **Helen Xu**.     
 (to appear) SIAM Symposium on Algorithm Engineering and Experiments (ALENEX), 2023.     
 
@@ -21,7 +21,7 @@ Abiyaz Chowdhury,
 [Rob Johnson](https://scholar.google.com/citations?user=YYcTN2EAAAAJ&hl=en), 
 [Rishab Nithyanand](https://cs.uiowa.edu/people/rishab-nithyanand), 
 and [Michael A. Bender](https://www3.cs.stonybrook.edu/~bender/).      
-European Symposium on Algorithms (ESA), 2022.     	
+European Symposium on Algorithms (ESA), 2022.     
 [pdf](https://itshelenxu.github.io/files/papers/ca-esa-22.pdf){: .btn}
 
 1. <span style="color:blue">**[ACDA '21]**</span> *Multidimensional  Included and Excluded Sums.*      
