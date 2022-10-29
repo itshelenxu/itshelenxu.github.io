@@ -19,13 +19,14 @@ During my Ph.D., I was lucky to spend time at [NVIDIA Research](https://www.nvid
 
 I received a B.S. in Computer Science from [Stony Brook University](https://www.cs.stonybrook.edu/), where I was fortunate to be advised by [Prof. Michael Bender](https://www3.cs.stonybrook.edu/~bender/).
 
-Here is a recent copy of my [CV](https://itshelenxu.github.io/files/CV.pdf) (updated 8-10-2022).
+Here is a recent copy of my [CV](https://itshelenxu.github.io/files/CV.pdf) (updated 10-29-2022).
 
 I am always looking for new collaborators. Please don't hesistate to reach out if you'd like to hear more about my work, start a new collaboration, or spend a summer with me at Berkeley Lab! The best way to contact me is via <a href = "mailto: hjxu@lbl.gov">email</a>.
 
 ## News
+<span style="color:blue">**[Oct. '22]**</span> Our paper "Optimizing Search Layouts in Packed Memory Arrays" has been accepted to ALENEX '23.
 
-<span style="color:blue">**[Aug. '22]**</span> I am attending the [Argonne Training Program on Extreme-Scale Computing](https://extremecomputingtraining.anl.gov/) from July 31 - August 12th.
+<span style="color:blue">**[Aug. '22]**</span> I am attending the [Argonne Training Program on Extreme-Scale Computing](https://extremecomputingtraining.anl.gov/) from July 31 - August 12th 2022.
 
 <span style="color:blue">**[Jun. '22]**</span> Our paper "When Are Cache-Oblivious Algorithms Cache Adaptive? A Case Study of Matrix Multiplication and Sorting" has been accepted to ESA '22.
 
