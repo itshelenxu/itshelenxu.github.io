@@ -10,6 +10,8 @@ redirect_from:
 
 I am the 2022 [Grace Hopper Postdoctoral Fellow](https://cs.lbl.gov/careers/computing-fellowships/hopper-fellowship/) in Computing Sciences at [Lawrence Berkeley National Laboratories](https://cs.lbl.gov/). I am thankful to be hosted by [Dr. Aydın Buluç](https://people.eecs.berkeley.edu/~aydin/) in the [PASSION lab](https://passion.lbl.gov/).
 
+<span style="color:blue">**I am currently on the faculty job market.**</span> Here is a recent copy of my [CV](https://itshelenxu.github.io/files/CV.pdf) (updated 10-29-2022).
+
 My research interests include parallel computing, cache-efficient algorithms, and performance engineering.
 
 I graduated with my [Ph.D. in Computer Science](https://credentials.mit.edu/certificate/bce7086eacde5e259b95a31ef69cd6ad) from the [Supertech group](http://supertech.mit.edu/) at [MIT](http://web.mit.edu/) [CSAIL](https://www.csail.mit.edu/) in 2022, where I was fortunate to be advised by [Prof. Charles E. Leiserson](http://people.csail.mit.edu/cel/).
@@ -19,7 +21,6 @@ During my Ph.D., I was lucky to spend time at [NVIDIA Research](https://www.nvid
 
 I received a B.S. in Computer Science from [Stony Brook University](https://www.cs.stonybrook.edu/), where I was fortunate to be advised by [Prof. Michael Bender](https://www3.cs.stonybrook.edu/~bender/).
 
-Here is a recent copy of my [CV](https://itshelenxu.github.io/files/CV.pdf) (updated 10-29-2022).
 
 I am always looking for new collaborators. Please don't hesistate to reach out if you'd like to hear more about my work, start a new collaboration, or spend a summer with me at Berkeley Lab! The best way to contact me is via <a href = "mailto: hjxu@lbl.gov">email</a>.
 
