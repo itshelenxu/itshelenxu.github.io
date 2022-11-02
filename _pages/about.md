@@ -10,7 +10,7 @@ redirect_from:
 
 I am the 2022 [Grace Hopper Postdoctoral Fellow](https://cs.lbl.gov/careers/computing-fellowships/hopper-fellowship/) in Computing Sciences at [Lawrence Berkeley National Laboratories](https://cs.lbl.gov/). I am thankful to be hosted by [Dr. Aydın Buluç](https://people.eecs.berkeley.edu/~aydin/) in the [PASSION lab](https://passion.lbl.gov/).
 
-<span style="color:blue">**I am currently on the faculty job market.**</span> Here is a recent copy of my [CV](https://itshelenxu.github.io/files/CV.pdf) (updated 10-29-2022).
+<span style="color:blue">**I am currently on the faculty job market.**</span> Here is a recent copy of my [CV](https://itshelenxu.github.io/files/CV.pdf) (updated 11-2-2022).
 
 My research interests include parallel computing, cache-efficient algorithms, and performance engineering.
 
