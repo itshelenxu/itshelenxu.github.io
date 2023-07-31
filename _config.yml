@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/itshelen"
-  orcid            : "https://orcid.org/0000-0003-2232-3305" # "http://orcid.org/yourorcidurl"
+  linkedin         : "itshelen"
+  orcid            : #"https://orcid.org/0000-0003-2232-3305" # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
