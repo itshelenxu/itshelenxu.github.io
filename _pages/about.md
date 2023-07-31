@@ -10,8 +10,6 @@ redirect_from:
 
 I am the 2022 [Grace Hopper Postdoctoral Fellow](https://cs.lbl.gov/careers/computing-fellowships/hopper-fellowship/) in Computing Sciences at [Lawrence Berkeley National Laboratories](https://cs.lbl.gov/). I am thankful to be hosted by [Dr. Aydın Buluç](https://people.eecs.berkeley.edu/~aydin/) in the [PASSION lab](https://passion.lbl.gov/).
 
-<span style="color:blue">**I am currently on the faculty job market.**</span> My application materials (CV, research/teaching/diversity statements) can be found [here](https://itshelenxu.github.io/files/materials.pdf).
-
 My research interests include parallel computing, cache-efficient algorithms, and performance engineering.
 
 I graduated with my [Ph.D. in Computer Science](https://credentials.mit.edu/certificate/bce7086eacde5e259b95a31ef69cd6ad) from the [Supertech group](http://supertech.mit.edu/) at [MIT](http://web.mit.edu/) [CSAIL](https://www.csail.mit.edu/) in 2022, where I was fortunate to be advised by [Prof. Charles E. Leiserson](http://people.csail.mit.edu/cel/).
@@ -25,6 +23,8 @@ I received a B.S. in Computer Science from [Stony Brook University](https://www.
 I am always looking for new collaborators. Please don't hesistate to reach out if you'd like to hear more about my work, start a new collaboration, or spend a summer with me at Berkeley Lab! The best way to contact me is via <a href = "mailto: hjxu@lbl.gov">email</a>.
 
 ## News
+<span style="color:blue">**[May. '23]**</span> Our paper "BP-tree: Overcoming the Point-Range Operation Tradeoff for In-Memory B-trees" has been accepted to VLDB '23.
+
 <span style="color:blue">**[Oct. '22]**</span> Our paper "Optimizing Search Layouts in Packed Memory Arrays" has been accepted to ALENEX '23.
 
 <span style="color:blue">**[Aug. '22]**</span> I am attending the [Argonne Training Program on Extreme-Scale Computing](https://extremecomputingtraining.anl.gov/) from July 31 - August 12th 2022.
@@ -32,5 +32,3 @@ I am always looking for new collaborators. Please don't hesistate to reach out i
 <span style="color:blue">**[Jun. '22]**</span> Our paper "When Are Cache-Oblivious Algorithms Cache Adaptive? A Case Study of Matrix Multiplication and Sorting" has been accepted to ESA '22.
 
 <span style="color:blue">**[Apr. '22]**</span> I am honored to be selected as the 2022 Grace Hopper Fellow in Computing Sciences at Berkeley Lab!
-
-<span style="color:blue">**[Feb. '22]**</span> I completed my Ph.D. and am moving to Berkeley Lab as a Postdoctoral Scholar!

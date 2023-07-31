@@ -8,9 +8,13 @@ author_profile: true
 Publications are listed in reverse chronological order. The most up-to-date list of my publications can be found on my [Google Scholar profile](https://scholar.google.com/citations?user=ZcguQt4AAAAJ&hl=en).
 
 ## Conference publications
+1. <span style="color:blue">**[VLDB '23]**</span> *BP-tree: Overcoming the Point-Range Operation Tradeoff for In-Memory B-trees.*      
+**Helen Xu**, Amanda Li, Brian Wheatman, Manoj Marneni, and Prashant Pandey.     
+International Conference on Very Large Data Bases (VLDB), 2023.     
+
 1. <span style="color:blue">**[ALENEX '23]**</span> *Optimizing Search Layouts in Packed Memory Arrays.*      
 Brian Wheatman, Randal Burns, Aydın Buluç, and **Helen Xu**.     
-(to appear) SIAM Symposium on Algorithm Engineering and Experiments (ALENEX), 2023.     
+SIAM Symposium on Algorithm Engineering and Experiments (ALENEX), 2023.     
 [pdf](https://itshelenxu.github.io/files/papers/spma-alenex-23.pdf){: .btn}
 
 1. <span style="color:blue">**[ESA '22]**</span> *When Are Cache-Oblivious Algorithms Cache Adaptive? A Case Study of Matrix Multiplication and Sorting.*      
