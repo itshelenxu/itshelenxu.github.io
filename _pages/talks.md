@@ -9,7 +9,8 @@ author_profile: true
 
 *Optimizing Dynamic Graph Processing on Multicores with the Locality-First Strategy.*       
 Lawrence Berkeley National Lab, 2022.      
-[slides](https://itshelenxu.github.io/files/slides/alvarez-fellowship-distrib.pdf){: .btn} [video from 2023 version at the Simons institute](https://www.youtube.com/watch?v=7mF-ZptnO9k){: .btn}
+Simons Institute for the Theory of Computing, 2023.      
+[slides](https://itshelenxu.github.io/files/slides/alvarez-fellowship-distrib.pdf){: .btn} [video](https://www.youtube.com/watch?v=7mF-ZptnO9k){: .btn}
 
 *Multidimensional Included and Excluded Sums.*      
 SIAM Conference on Applied and Computational Discrete Algorithms (ACDA),  2021.      
