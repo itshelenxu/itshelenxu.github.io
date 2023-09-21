@@ -17,11 +17,12 @@ author_profile: true
 ## Student advising
 
 - Ph.D.
-  - **[Brian Wheatman](https://brianwheatman.com/)** (MIT/JHU), hosted at LBL in Summer 2022.
-  - **[Arghya Bhattacharya](https://www3.cs.stonybrook.edu/~argbhattacha/)** (Stony Brook University), since Spring 2020.
+  - **[Brian Wheatman](https://brianwheatman.com/)** (JHU), hosted at LBL in Summer 2022.
+  - **[Raqib Islam](https://biqar.github.io/)** (UNC Charlotte), hosted at LBL in Summer 2023.
+  - **[Arghya Bhattacharya](https://www3.cs.stonybrook.edu/~argbhattacha/)** (SBU), hosted at LBL in Fall 2023.
 
 - M.Eng.
-  - **Amanda Li** (MIT, expected Feb. 2023), "Efficient Dynamic Graph Processing via Data Structure Design."
+  - **Amanda Li** (MIT, Feb. 2023), "BP-Tree: Overcoming the Point-Range Operation Tradeoff for In-Memory B+-trees."
   - **Sean Fraser** (MIT, Jun. 2020), "Optimizing Parallel Prefix Sums for Scientific Computing."
   - **Brian Wheatman** (MIT, Jun. 2019), "Image Alignment
   and Dynamic Graph Analytics : Two Case Studies of How Managing Data Movement
@@ -30,8 +31,11 @@ author_profile: true
   Computations." Co-advised with Tao B. Schardl.
 
 ## Service
-
 - Program committees:
+  - **Principles and Practice of Parallel Programming** (PPoPP): 2024
+  - **Supercomputing Conference** (SC, Algorithms track): 2023
+  - **European Symposium on Algorithms** (ESA, Track B): 2023
+  - **Symposium on Experimental Algorithms** (SEA): 2023
   - **Workshop on Algorithm Engineering and Experiments** (ALENEX): 2022, 2023
   - **Symposium on Parallel Algorithms and Architectures** (SPAA): 2022
 

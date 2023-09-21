@@ -11,7 +11,7 @@ Publications are listed in reverse chronological order. The most up-to-date list
 1. <span style="color:blue">**[VLDB '23]**</span> *BP-tree: Overcoming the Point-Range Operation Tradeoff for In-Memory B-trees.*      
 **Helen Xu**, Amanda Li, Brian Wheatman, Manoj Marneni, and Prashant Pandey.     
 International Conference on Very Large Data Bases (VLDB), 2023.     
-[doi](https://dl.acm.org/doi/10.14778/3611479.3611502){: .btn}
+[pdf](https://itshelenxu.github.io/files/papers/bptree-vldb-23.pdf){: .btn} [doi](https://dl.acm.org/doi/10.14778/3611479.3611502){: .btn}
 
 1. <span style="color:blue">**[ALENEX '23]**</span> *Optimizing Search Layouts in Packed Memory Arrays.*      
 Brian Wheatman, Randal Burns, Aydın Buluç, and **Helen Xu**.     
