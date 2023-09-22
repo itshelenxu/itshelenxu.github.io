@@ -12,10 +12,10 @@ I am an incoming professor at Georgia Tech in the [School of Computational Scien
 
 ## Information for prospective students
 
-**I am looking for motivated PhD students starting in Fall 2024! If you are interested in parallel and high-performance computing, there are two paths:**
+**I am looking for motivated Ph.D. students starting in Fall 2024! If you are interested in parallel and high-performance computing, there are two paths to working with me:**
 
-- If you are not yet a PhD student at GT, please apply to the [CSE PhD program](https://www.cc.gatech.edu/degree-programs/phd-computational-science-and-engineering) and place my name in the faculty preference list. 
-- If you are currently a PhD student at GT, please <a href = "mailto: hjxu@lbl.gov">reach out</a> and include why you are interested in our group, your CV, grad report, a code sample (preferably C/C++), and a writing sample.
+- If you are not yet a Ph.D. student at GT, please apply to the [CSE Ph.D. program](https://www.cc.gatech.edu/degree-programs/phd-computational-science-and-engineering) and place my name in the faculty preference list. 
+- If you are currently a Ph.D. student at GT, please <a href = "mailto: hjxu@lbl.gov">reach out</a> and include why you are interested in our group, your CV, grad report, a code sample (preferably C/C++), and a writing sample.
 
 ## Research interests
 
