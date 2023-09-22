@@ -12,7 +12,7 @@ I am an incoming professor at Georgia Tech in the [School of Computational Scien
 
 ## Information for prospective students
 
-**My group has multiple PhD positions available for Fall 2024. If you are interested in parallel and high performance computing, please <a href = "mailto: hjxu@lbl.gov">reach out</a> and apply to the School of CSE at GT.**
+**I am looking for motivated PhD students starting in Fall 2024! If you are interested in parallel and high performance computing, please <a href = "mailto: hjxu@lbl.gov">reach out</a> and apply to the School of CSE at GT.**
 
 ## Research interests
 

@@ -80,6 +80,10 @@ ACM Symposium on Principles of Database Systems (PODS), 2017.
 [pdf](https://itshelenxu.github.io/files/papers/wosl-pods-17.pdf){: .btn} [ACM](https://dl.acm.org/doi/10.1145/3034786.3056117){: .btn}
 
 ## Peer-reviewed short publications
+1. <span style="color:blue">**[HPEC '23]**</span> *Optimizing Compression Schemes for Parallel Sparse Tensor Algebra.*       
+**Helen Xu**, Tao B. Schardl, Michael Pellauer, and Joel S. Emer.      
+IEEE High Performance Extreme Computing Conference (HPEC), 2023.      
+[pdf](https://itshelenxu.github.io/files/papers/compression-hpec-23.pdf){: .btn}
 
 1. <span style="color:blue">**[HPEC '20]**</span> *Work-Efficient Parallel Algorithms for Accurate Floating-Point Prefix Sums.*       
 Sean Fraser, **Helen Xu**, and Charles E. Leiserson.      
