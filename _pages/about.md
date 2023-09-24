@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming professor at Georgia Tech in the [School of Computational Science and Engineering](https://cse.gatech.edu/) starting in January 2024. Until then, I am the [Grace Hopper Postdoctoral Fellow](https://cs.lbl.gov/careers/computing-fellowships/hopper-fellowship/) in Computing Sciences at [Lawrence Berkeley National Laboratory](https://cs.lbl.gov/). Before that, I graduated with my [Ph.D. in Computer Science](https://credentials.mit.edu/certificate/bce7086eacde5e259b95a31ef69cd6ad) from MIT. My thesis was on "[The Locality-First Strategy for Developing Efficient Multicore Algorithms](https://hdl.handle.net/1721.1/143200)."
+I am an incoming professor at Georgia Tech in the [School of Computational Science and Engineering](https://cse.gatech.edu/) starting in January 2024. Until then, I am the [Grace Hopper Postdoctoral Fellow](https://cs.lbl.gov/careers/computing-fellowships/hopper-fellowship/) in Computing Sciences at [Lawrence Berkeley National Laboratory](https://cs.lbl.gov/), where I am lucky to be hosted by [Dr. Aydin Buluc](http://people.eecs.berkeley.edu/~aydin/). Before that, I graduated with my [Ph.D. in Computer Science](https://credentials.mit.edu/certificate/bce7086eacde5e259b95a31ef69cd6ad) from MIT, where I was fortunate to be advised by [Prof. Charles E. Leiserson](https://people.csail.mit.edu/cel/). My thesis was on "[The Locality-First Strategy for Developing Efficient Multicore Algorithms](https://hdl.handle.net/1721.1/143200)."
 
 ## Information for prospective students
 
