@@ -68,7 +68,7 @@ ACM Symposium on Parallelism in Algorithms and Architectures (SPAA), 2018.
 
 1. <span style="color:blue">**[IPDPS '18]**</span> *A Fill Estimation Algorithm for Sparse Matrices and Tensors in
   Blocked Formats*.     
-[Peter Ahrens](http://willowahrens.io/), **Helen Xu**, and [Nicholas Schiefer](https://nicholasschiefer.com/).      
+[Willow Ahrens](http://willowahrens.io/), **Helen Xu**, and [Nicholas Schiefer](https://nicholasschiefer.com/).      
 IEEE International Parallel and Distributed Processing Symposium (IPDPS), 2018.     
 [pdf](https://itshelenxu.github.io/files/papers/phil-web.pdf){: .btn} [IEEE](https://ieeexplore.ieee.org/document/8425208?reload=true){: .btn}
 
