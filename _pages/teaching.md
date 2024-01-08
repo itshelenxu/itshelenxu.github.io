@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 ## Teaching
+- Course taught
+  - **[High Performance Computing: Tools and Applications](https://sites.gatech.edu/cse6230spring24/)**, GT CSE: Spring 2024.
 
 - Courses assisted
   - **[Performance Engineering of Software Systems](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/)**, MIT: Fall 2018, 2017.      
