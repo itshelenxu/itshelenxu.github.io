@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Helen Xu"
 title_separator          : "-"
 name                     : &name "Helen Xu"
-description              : &description "Postdoctoral Scholar at Berkeley Lab"
+description              : &description "Assistant Prof @ GT CSE"
 url                      : https://itshelenxu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "itshelenxu.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Helen Xu"
   avatar           : "helen.jpeg"
-  bio              : "Grace Hopper Postdoctoral Scholar in Computing Sciences at Berkeley Lab"
-  location         : "Berkeley, CA"
+  bio              : "Assistant Prof @ Georgia Tech"
+  location         : "Atlanta, GA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ZcguQt4AAAAJ&hl=en" # "http://yourfullgooglescholarurl.com"
-  email            :  "hjxu@lbl.gov"
+  email            :  "hxu615@gatech.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

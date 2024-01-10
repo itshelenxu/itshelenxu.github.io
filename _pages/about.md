@@ -15,7 +15,7 @@ I am an assistant professor at Georgia Tech in the [School of Computational Scie
 **I am looking for motivated Ph.D. students starting in Fall 2024! If you are interested in parallel and high-performance computing, there are two paths to working with me:**
 
 - If you are not yet a Ph.D. student at GT, please apply to the [CSE Ph.D. program](https://www.cc.gatech.edu/degree-programs/phd-computational-science-and-engineering) and place my name in the faculty preference list. 
-- If you are currently a Ph.D. student at GT, please <a href = "mailto: hjxu@lbl.gov">reach out</a> and include why you are interested in our group, your CV, grad report, a code sample (preferably C/C++), and a writing sample.
+- If you are currently a Ph.D. student at GT, please <a href = "mailto: hxu615@gatech.edu">reach out</a> and include why you are interested in our group, your CV, grad report, a code sample (preferably C/C++), and a writing sample.
 
 ## Research interests
 
@@ -24,10 +24,8 @@ I am an assistant professor at Georgia Tech in the [School of Computational Scie
 - Software performance engineering
 
 ## News
-<span style="color:blue">**[Jan. '24]**</span> I moved to Atlanta and am starting my new position at GT CSE! This semester, I am teaching [CSE 6230: HPC Tools and Applications](https://sites.gatech.edu/cse6230spring24/).
+<span style="color:blue">**[Jan. '24]**</span> I moved to Atlanta and am starting my new position at GT CSE! This semester, I am teaching [CSE 6230: HPC Tools and Applications](https://sites.gatech.edu/cse6230spring24/). Feel free to follow along on our [YouTube channel](https://www.youtube.com/channel/UC4ZPG8Hv8huWg181F6lHX_w).
 
-Our paper "BP-tree: Overcoming the Point-Range Operation Tradeoff for In-Memory B-trees" has been accepted to VLDB '23.
+<span style="color:blue">**[Nov. '23]**</span> Our paper "CPMA: An Efficient Batch-Parallel Compressed Set Without Pointers" has been accepted to PPoPP '24.
 
 <span style="color:blue">**[May. '23]**</span> Our paper "BP-tree: Overcoming the Point-Range Operation Tradeoff for In-Memory B-trees" has been accepted to VLDB '23.
-
-<span style="color:blue">**[Apr. '22]**</span> I am honored to be selected as the 2022 Grace Hopper Fellow in Computing Sciences at Berkeley Lab!
