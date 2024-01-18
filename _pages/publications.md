@@ -8,6 +8,11 @@ author_profile: true
 Publications are listed in reverse chronological order. The most up-to-date list of my publications can be found on my [Google Scholar profile](https://scholar.google.com/citations?user=ZcguQt4AAAAJ&hl=en).
 
 ## Conference publications
+1. <span style="color:blue">**[PPoPP '24]**</span> *CPMA: An Efficient Batch-Parallel Compressed Set Without Pointers.*      
+Brian Wheatman, Randal Burns, Aydın Buluç, and **Helen Xu**.     
+ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP), 2024 (to appear).      
+[pdf](https://itshelenxu.github.io/files/papers/cpma-ppopp-24.pdf){: .btn} [arXiv](https://arxiv.org/abs/2305.05055){: .btn}
+
 1. <span style="color:blue">**[VLDB '23]**</span> *BP-tree: Overcoming the Point-Range Operation Tradeoff for In-Memory B-trees.*      
 **Helen Xu**, Amanda Li, Brian Wheatman, Manoj Marneni, and Prashant Pandey.     
 International Conference on Very Large Data Bases (VLDB), 2023.     

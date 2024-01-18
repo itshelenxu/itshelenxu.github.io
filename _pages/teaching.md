@@ -11,7 +11,7 @@ author_profile: true
 
 - Courses assisted
   - **[Performance Engineering of Software Systems](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/)**, MIT: Fall 2018, 2017.      
-  - **Foundations of Computer Science,** Stony Brook University: Fall 2014, Spring 2015.
+  - **Foundations of Computer Science**, Stony Brook University: Fall 2014, Spring 2015.
 
 - Qualifications
   - **Kaufman Teaching Certificate Program** ([KTCP](https://tll.mit.edu/programming/grad-student-programming/kaufman-teaching-certificate-program/)), [MIT Teaching & Learning Lab](https://tll.mit.edu/), 2021.
