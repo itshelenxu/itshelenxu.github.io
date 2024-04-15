@@ -4,6 +4,9 @@ title: ""
 permalink: /codes/
 author_profile: true
 ---
+**[CPMA](https://github.com/wheatman/Packed-Memory-Array)**
+from *[CPMA: An Efficient Batch-Parallel Compressed Set Without Pointers](https://itshelenxu.github.io/files/papers/cpma-ppopp-24.pdf)* (PPoPP '24).
+
 **[BP-tree](https://github.com/wheatman/concurrent-btrees)**      
 from *[BP-Tree: Overcoming the Point-Range Operation Tradeoff for In-Memory B-Trees](https://itshelenxu.github.io/files/papers/bptree-vldb-23.pdf)* (VLDB '23).
 
