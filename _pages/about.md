@@ -24,10 +24,10 @@ I am an assistant professor at Georgia Tech in the [School of Computational Scie
 - Software performance engineering
 
 ## News
-<span style="color:blue">**[Apr. '23]**</span> Our paper "BYO: A Unified Framework for Benchmarking Large-Scale Graph Containers" has been accepted to VLDB '24.
+<span style="color:blue">**[Jun. '24]**</span> I will be co-organizing the [Workshop on Recent Advances in Parallel and Concurrent Data Structures](https://sites.gatech.edu/spaa24datastr/) at SPAA '24.
+
+<span style="color:blue">**[Apr. '24]**</span> Our paper "BYO: A Unified Framework for Benchmarking Large-Scale Graph Containers" has been accepted to VLDB '24.
 
 <span style="color:blue">**[Jan. '24]**</span> I moved to Atlanta and am starting my new position at GT CSE! This semester, I am teaching [CSE 6230: HPC Tools and Applications](https://sites.gatech.edu/cse6230spring24/). Feel free to follow along on our [YouTube channel](https://www.youtube.com/channel/UC4ZPG8Hv8huWg181F6lHX_w).
 
 <span style="color:blue">**[Nov. '23]**</span> Our paper "CPMA: An Efficient Batch-Parallel Compressed Set Without Pointers" has been accepted to PPoPP '24.
-
-
