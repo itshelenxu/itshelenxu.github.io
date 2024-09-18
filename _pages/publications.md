@@ -11,6 +11,7 @@ Publications are listed in reverse chronological order. The most up-to-date list
 1. <span style="color:blue">**[VLDB '24]**</span> *BYO: A Unified Framework for Benchmarking Large-Scale Graph Containers.*      
 Brian Wheatman, Xiaojun Dong, Zheqi Shen, Laxman Dhulipala, Jakub Łącki, Prashant Pandey, and **Helen Xu**.     
 International Conference on Very Large Data Bases (VLDB), 2024.     
+[arXiv](https://arxiv.org/abs/2405.11671){: .btn} [pdf](https://vldb.org/pvldb/vol17/p2307-wheatman.pdf){: .btn} 
 
 1. <span style="color:blue">**[PPoPP '24]**</span> *CPMA: An Efficient Batch-Parallel Compressed Set Without Pointers.*      
 Brian Wheatman, Randal Burns, Aydın Buluç, and **Helen Xu**.     
@@ -90,6 +91,10 @@ ACM Symposium on Principles of Database Systems (PODS), 2017.
 [pdf](https://itshelenxu.github.io/files/papers/wosl-pods-17.pdf){: .btn} [ACM](https://dl.acm.org/doi/10.1145/3034786.3056117){: .btn}
 
 ## Peer-reviewed short publications
+1. <span style="color:blue">**[HPEC '24]**</span> *Batch-Parallel Compressed Sparse Row: A Locality-Optimized Dynamic-Graph Representation.*      
+Brian Wheatman, Randal Burns, and **Helen Xu**.     
+IEEE High Performance Extreme Computing Conference (HPEC), 2024.      
+
 1. <span style="color:blue">**[HPEC '23]**</span> *Optimizing Compression Schemes for Parallel Sparse Tensor Algebra.*       
 **Helen Xu**, Tao B. Schardl, Michael Pellauer, and Joel S. Emer.      
 IEEE High Performance Extreme Computing Conference (HPEC), 2023.      
@@ -114,3 +119,9 @@ ACM International Conference on Neuromorphic Systems (ICONS), 2019.
 Brian Wheatman and **Helen Xu**.      
 IEEE High Performance Extreme Computing Conference (HPEC), 2018.      
 [pdf](https://itshelenxu.github.io/files/papers/pcsr.pdf){: .btn} [IEEE](https://ieeexplore.ieee.org/abstract/document/8547566){: .btn}
+
+## Other articles
+1. <span style="color:blue">**[EATCS Column '24]**</span> *Dynamic Graphs, End-to-End: Containers, Frameworks, and Benchmarks* 
+**Helen Xu**.     
+Invited contribution to the Bulletin of the European Association for Theoretical Computer Science.      
+[pdf](http://bulletin.eatcs.org/index.php/beatcs/article/view/809){: .btn}

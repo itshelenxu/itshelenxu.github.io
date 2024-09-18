@@ -4,6 +4,9 @@ title: ""
 permalink: /codes/
 author_profile: true
 ---
+**[BYO](https://github.com/wheatman/BYO)**         
+from *[BYO: A Unified Framework for Benchmarking Large-Scale Graph Containers](https://itshelenxu.github.io/files/papers/byo-vldb-24.pdf)* (VLDB '24).
+
 **[CPMA](https://github.com/wheatman/Packed-Memory-Array)**         
 from *[CPMA: An Efficient Batch-Parallel Compressed Set Without Pointers](https://itshelenxu.github.io/files/papers/cpma-ppopp-24.pdf)* (PPoPP '24).
 
