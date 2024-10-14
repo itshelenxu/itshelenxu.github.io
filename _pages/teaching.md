@@ -7,7 +7,8 @@ author_profile: true
 
 ## Teaching
 - Courses taught
-  - **[High Performance Computing: Tools and Applications](https://sites.gatech.edu/cse6230spring24/)** (GT CSE 6230): Spring 2024.
+  - **[Introduction to High-Performance Computing](https://sites.gatech.edu/cse6220fall24/)** (GT CSE 6220 / CX 4220): Fall 2024.
+  - **[High-Performance Computing: Tools and Applications](https://sites.gatech.edu/cse6230spring24/)** (GT CSE 6230): Spring 2024.
 
 - Courses assisted
   - **[Performance Engineering of Software Systems](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/)**, MIT: Fall 2018, 2017.      
@@ -16,9 +17,19 @@ author_profile: true
 - Qualifications
   - **Kaufman Teaching Certificate Program** ([KTCP](https://tll.mit.edu/programming/grad-student-programming/kaufman-teaching-certificate-program/)), [MIT Teaching & Learning Lab](https://tll.mit.edu/), 2021.
  
-## Student advising
+## Student advising at Georgia Tech
 
 - Ph.D.
+  - Senhe Hao (2024 - TBD)
+  - Yicong (Eddy) Luo (2024 - TBD)
+
+- M.S.
+  - Kepan Zhang (2024 - TBD)
+  - Tiancheng Zhao (2024 - TBD)
+
+## Other student advising
+
+- Ph.D. interns at Berkeley Lab
   - **[Brian Wheatman](https://brianwheatman.com/)** (JHU), hosted at LBL in Summer 2022.
   - **[Raqib Islam](https://biqar.github.io/)** (UNC Charlotte), hosted at LBL in Summer 2023.
   - **[Arghya Bhattacharya](https://www3.cs.stonybrook.edu/~argbhattacha/)** (SBU), hosted at LBL in Fall 2023.
@@ -33,24 +44,11 @@ author_profile: true
   Computations." Co-advised with Tao B. Schardl.
 
 ## Service
-- Program committees:
-  - International European Conference on Parallel and Distributed Computing (Euro-Par, Theory and Algorithms Track): 2024
-  - **Principles and Practice of Parallel Programming** (PPoPP): 2024
-  - **Supercomputing Conference** (SC, Algorithms track): 2023
-  - **European Symposium on Algorithms** (ESA, Track B): 2023
-  - **Symposium on Experimental Algorithms** (SEA): 2023
-  - **Workshop on Algorithm Engineering and Experiments** (ALENEX): 2022, 2023
-  - **Symposium on Parallel Algorithms and Architectures** (SPAA): 2022, 2023, 2024
-
-- External reviewer for VLDB (2023), ESA (2023), JPDC (2022), ICPP (2021), ACDA (2021), WADS (2021), SPAA
-  (2021, 2020), EuroPar (2020), SOSA (2020), SODA (2019, 2018), ESA (2019, 2022)
-
-- Artifact/reproducibility reviewer:
-  - PPoPP (2023)
-  - SIGMOD (2023)
-
-- Other:
-  - Travel Grants Chair for SPAA 2024
+- Program committees: SPAA, IPDPS, PPoPP, SC, ALENEX, SEA, ESA, Euro-Par.
+- External reviewing: VLDB, JPDC, ICPP, ACDA, WADS, SPAA, EuroPar, SOSA, SODA, ESA.
+- Artifact/reproducibility reviewing: PPoPP, SIGMOD.
+- Travel Grants Chair for SPAA (2024), PPoPP (2025)
+- Workshops and Tutorials Chair for SPAA (2025)
 
 ## Other
 - From 2018-2021, I served as a Communication Fellow providing peer coaching in the [MIT EECS Communication Lab](https://mitcommlab.mit.edu/eecs/).

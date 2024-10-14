@@ -121,7 +121,7 @@ IEEE High Performance Extreme Computing Conference (HPEC), 2018.
 [pdf](https://itshelenxu.github.io/files/papers/pcsr.pdf){: .btn} [IEEE](https://ieeexplore.ieee.org/abstract/document/8547566){: .btn}
 
 ## Other articles
-1. <span style="color:blue">**[EATCS Column '24]**</span> *Dynamic Graphs, End-to-End: Containers, Frameworks, and Benchmarks* 
+1. <span style="color:blue">**[EATCS Column '24]**</span> *Dynamic Graphs, End-to-End: Containers, Frameworks, and Benchmarks*       
 **Helen Xu**.     
 Invited contribution to the Bulletin of the European Association for Theoretical Computer Science.      
 [pdf](http://bulletin.eatcs.org/index.php/beatcs/article/view/809){: .btn}
