@@ -25,7 +25,7 @@ author_profile: true
 
 - M.S.
   - Kepan Zhang (2024 - TBD)
-  - Tiancheng Zhao (2024 - TBD)
+  - Tiancheng (Alex) Zhao (2024 - TBD)
 
 ## Other student advising
 
@@ -34,21 +34,21 @@ author_profile: true
   - **[Raqib Islam](https://biqar.github.io/)** (UNC Charlotte), hosted at LBL in Summer 2023.
   - **[Arghya Bhattacharya](https://www3.cs.stonybrook.edu/~argbhattacha/)** (SBU), hosted at LBL in Fall 2023.
 
-- M.Eng.
-  - **Amanda Li** (MIT, Feb. 2023), "BP-Tree: Overcoming the Point-Range Operation Tradeoff for In-Memory B+-trees."
-  - **Sean Fraser** (MIT, Jun. 2020), "Optimizing Parallel Prefix Sums for Scientific Computing."
-  - **Brian Wheatman** (MIT, Jun. 2019), "Image Alignment
+- MIT M.Eng.
+  - **Amanda Li** (2023), "BP-Tree: Overcoming the Point-Range Operation Tradeoff for In-Memory B+-trees."
+  - **Sean Fraser** (2020), "Optimizing Parallel Prefix Sums for Scientific Computing."
+  - **Brian Wheatman** (2019), "Image Alignment
   and Dynamic Graph Analytics : Two Case Studies of How Managing Data Movement
   Can Make (Parallel) Code Run Fast." Co-advised with Tim Kaler.
-  - **Stephanie Ren** (MIT, Jun. 2019), "Vector-Aware Space Cuts in Stencil
+  - **Stephanie Ren** (2019), "Vector-Aware Space Cuts in Stencil
   Computations." Co-advised with Tao B. Schardl.
 
 ## Service
-- Program committees: SPAA, IPDPS, PPoPP, SC, ALENEX, SEA, ESA, Euro-Par.
-- External reviewing: VLDB, JPDC, ICPP, ACDA, WADS, SPAA, EuroPar, SOSA, SODA, ESA.
+- Program committees: SPAA, IPDPS, PPoPP, SC, ALENEX, SEA, ESA, Euro-Par, ICS, GraPL, HOPC.
+- External reviewing: Algorithmica, STACS, VLDB, JPDC, ICPP, ACDA, WADS, SPAA, EuroPar, SOSA, SODA, ESA.
 - Artifact/reproducibility reviewing: PPoPP, SIGMOD.
-- Travel Grants Chair for SPAA (2024), PPoPP (2025)
-- Workshops and Tutorials Chair for SPAA (2025)
+- Travel Grants Chair for SPAA (2024), PPoPP (2025).
+- Workshops and Tutorials Chair for SPAA (2025),
 
 ## Other
 - From 2018-2021, I served as a Communication Fellow providing peer coaching in the [MIT EECS Communication Lab](https://mitcommlab.mit.edu/eecs/).

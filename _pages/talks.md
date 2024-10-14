@@ -21,11 +21,6 @@ SIAM Conference on Applied and Computational Discrete Algorithms (ACDA),  2021.
 SIAM Symposium on Algorithmic Principles of Computer Systems (APOCS), 2021.      
 [slides](https://itshelenxu.github.io/files/slides/paging-apocs-21.pdf){: .btn} [video](https://www.dropbox.com/s/hpdshemwwiu6xsn/apocs21.mp4?dl=0){: .btn}
 
-## Teaching example
-*Leiserchess Codewalk.*     
-Performance Engineering of Software Systems (MIT), 2018.       
-[slides](https://itshelenxu.github.io/files/slides/leiserchess-18.pdf){: .btn} [video](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/resources/lecture-19-leiserchess-codewalk/){: .btn}
-
 ## Communication workshops
 
 *NSF Graduate Research Fellowships Program (GRFP) Workshop.*      
