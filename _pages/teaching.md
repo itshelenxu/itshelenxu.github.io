@@ -7,7 +7,7 @@ author_profile: true
 
 ## Teaching
 - Courses taught
-  - **[Introduction to High-Performance Computing](https://sites.gatech.edu/cse6220fall24/)** (GT CSE 6220 / CX 4220): Fall 2024.
+  - **[Introduction to High-Performance Computing](https://sites.gatech.edu/cse6220fall24/)** (GT CSE 6220 / CX 4220): Fall 2024, Spring 2025.
   - **[High-Performance Computing: Tools and Applications](https://sites.gatech.edu/cse6230spring24/)** (GT CSE 6230): Spring 2024.
 
 - Courses assisted
@@ -24,7 +24,7 @@ author_profile: true
   - Yicong (Eddy) Luo (2024 - TBD)
 
 - M.S.
-  - Kepan Zhang (2024 - TBD)
+  - Kepan Zhang (graduated Dec. 2024)
   - Tiancheng (Alex) Zhao (2024 - TBD)
 
 ## Other student advising
@@ -36,7 +36,7 @@ author_profile: true
 
 - MIT M.Eng.
   - **Amanda Li** (2023), "BP-Tree: Overcoming the Point-Range Operation Tradeoff for In-Memory B+-trees."
-  - **Sean Fraser** (2020), "Optimizing Parallel Prefix Sums for Scientific Computing."
+  - **Sean Fraser** (2020), "Optimizing Parallel Prefix Sums for Scientific Computing." Co-advised with Charles E. Leiserson.
   - **Brian Wheatman** (2019), "Image Alignment
   and Dynamic Graph Analytics : Two Case Studies of How Managing Data Movement
   Can Make (Parallel) Code Run Fast." Co-advised with Tim Kaler.
@@ -44,10 +44,10 @@ author_profile: true
   Computations." Co-advised with Tao B. Schardl.
 
 ## Service
-- Program committees: SPAA, IPDPS, PPoPP, SC, ALENEX, SEA, ESA, Euro-Par, ICS, GraPL, HOPC.
+- Program committees: SPAA, IPDPS, PPoPP, SC, PACT, ALENEX, SEA, ESA, Euro-Par, ICS, GraPL, HOPC.
 - External reviewing: Algorithmica, STACS, VLDB, JPDC, ICPP, ACDA, WADS, SPAA, EuroPar, SOSA, SODA, ESA.
 - Artifact/reproducibility reviewing: PPoPP, SIGMOD.
-- Travel Grants Chair for SPAA (2024), PPoPP (2025).
+- Travel Grants Chair for SPAA (2024, 2025), PPoPP (2025).
 - Workshops and Tutorials Chair for SPAA (2025),
 
 ## Other

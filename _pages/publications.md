@@ -8,6 +8,11 @@ author_profile: true
 Publications are listed in reverse chronological order. The most up-to-date list of my publications can be found on my [Google Scholar profile](https://scholar.google.com/citations?user=ZcguQt4AAAAJ&hl=en).
 
 ## Conference publications
+1. <span style="color:blue">**[IPDPS '25]**</span> *A Work-Optimal Parallel Algorithm for Aligning
+Sequences to Genome Graphs.*      
+Aranya Banerjee, Daniel Gibney, **Helen Xu**, and Srinivas Aluru.     
+International Parallel & Distributed Processing Symposium (IPDPS), 2025.
+
 1. <span style="color:blue">**[VLDB '24]**</span> *BYO: A Unified Framework for Benchmarking Large-Scale Graph Containers.*      
 Brian Wheatman, Xiaojun Dong, Zheqi Shen, Laxman Dhulipala, Jakub Łącki, Prashant Pandey, and **Helen Xu**.     
 International Conference on Very Large Data Bases (VLDB), 2024.     
