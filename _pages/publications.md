@@ -11,7 +11,7 @@ Publications are listed in reverse chronological order. The most up-to-date list
 1. <span style="color:blue">**[IPDPS '25]**</span> *A Work-Optimal Parallel Algorithm for Aligning
 Sequences to Genome Graphs.*      
 Aranya Banerjee, Daniel Gibney, **Helen Xu**, and Srinivas Aluru.     
-International Parallel & Distributed Processing Symposium (IPDPS), 2025.     
+International Parallel & Distributed Processing Symposium (IPDPS), 2025.        
 [pdf](https://itshelenxu.github.io/files/papers/alignment-ipdps-25.pdf){: .btn}
 
 1. <span style="color:blue">**[VLDB '24]**</span> *BYO: A Unified Framework for Benchmarking Large-Scale Graph Containers.*      
@@ -100,12 +100,12 @@ ACM Symposium on Principles of Database Systems (PODS), 2017.
 1. <span style="color:blue">**[HPEC '24]**</span> *Batch-Parallel Compressed Sparse Row: A Locality-Optimized Dynamic-Graph Representation.*      
 Brian Wheatman, Randal Burns, and **Helen Xu**.     
 IEEE High Performance Extreme Computing Conference (HPEC), 2024.      
-[pdf](https://itshelenxu.github.io/files/papers/bpcsr-hpec-24.pdf){: .btn}
+[pdf](https://itshelenxu.github.io/files/papers/bpcsr-hpec-24.pdf){: .btn} [IEEE](https://ieeexplore.ieee.org/document/10938461){: .btn}
 
 1. <span style="color:blue">**[HPEC '23]**</span> *Optimizing Compression Schemes for Parallel Sparse Tensor Algebra.*       
 **Helen Xu**, Tao B. Schardl, Michael Pellauer, and Joel S. Emer.      
 IEEE High Performance Extreme Computing Conference (HPEC), 2023.      
-[pdf](https://itshelenxu.github.io/files/papers/compression-hpec-23.pdf){: .btn}
+[pdf](https://itshelenxu.github.io/files/papers/compression-hpec-23.pdf){: .btn} [IEEE](https://ieeexplore.ieee.org/document/10125541){: .btn}
 
 1. <span style="color:blue">**[HPEC '20]**</span> *Work-Efficient Parallel Algorithms for Accurate Floating-Point Prefix Sums.*       
 Sean Fraser, **Helen Xu**, and Charles E. Leiserson.      
@@ -131,4 +131,4 @@ IEEE High Performance Extreme Computing Conference (HPEC), 2018.
 1. <span style="color:blue">**[EATCS Column '24]**</span> *Dynamic Graphs, End-to-End: Containers, Frameworks, and Benchmarks*       
 **Helen Xu**.     
 Invited contribution to the Bulletin of the European Association for Theoretical Computer Science.      
-[pdf](http://bulletin.eatcs.org/index.php/beatcs/article/view/809){: .btn}
+[pdf](https://itshelenxu.github.io/files/papers/eatcs-column.pdf) [EATCS webpage](http://bulletin.eatcs.org/index.php/beatcs/article/view/809){: .btn}
