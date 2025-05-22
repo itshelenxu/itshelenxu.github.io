@@ -12,7 +12,7 @@ Publications are listed in reverse chronological order. The most up-to-date list
 Sequences to Genome Graphs.*      
 Aranya Banerjee, Daniel Gibney, **Helen Xu**, and Srinivas Aluru.     
 International Parallel & Distributed Processing Symposium (IPDPS), 2025.        
-[pdf](https://itshelenxu.github.io/files/papers/alignment-ipdps-25.pdf){: .btn}
+[pdf](https://itshelenxu.github.io/files/papers/alignment-ipdps-25.pdf){: .btn} [code](https://github.com/ParBLiSS/ParSGA){: .btn}
 
 1. <span style="color:blue">**[VLDB '24]**</span> *BYO: A Unified Framework for Benchmarking Large-Scale Graph Containers.*      
 Brian Wheatman, Xiaojun Dong, Zheqi Shen, Laxman Dhulipala, Jakub Łącki, Prashant Pandey, and **Helen Xu**.     
@@ -33,7 +33,7 @@ International Conference on Very Large Data Bases (VLDB), 2023.
 1. <span style="color:blue">**[ALENEX '23]**</span> *Optimizing Search Layouts in Packed Memory Arrays.*      
 Brian Wheatman, Randal Burns, Aydın Buluç, and **Helen Xu**.     
 SIAM Symposium on Algorithm Engineering and Experiments (ALENEX), 2023.     
-[pdf](https://itshelenxu.github.io/files/papers/spma-alenex-23.pdf){: .btn}
+[pdf](https://itshelenxu.github.io/files/papers/spma-alenex-23.pdf){: .btn} [doi](https://doi.org/10.1137/1.9781611977561.ch13){: .btn}
 
 1. <span style="color:blue">**[ESA '22]**</span> *When Are Cache-Oblivious Algorithms Cache Adaptive? A Case Study of Matrix Multiplication and Sorting.*      
 [Arghya Bhattacharya](https://www3.cs.stonybrook.edu/~argbhattacha/), 
@@ -131,4 +131,4 @@ IEEE High Performance Extreme Computing Conference (HPEC), 2018.
 1. <span style="color:blue">**[EATCS Column '24]**</span> *Dynamic Graphs, End-to-End: Containers, Frameworks, and Benchmarks*       
 **Helen Xu**.     
 Invited contribution to the Bulletin of the European Association for Theoretical Computer Science.      
-[pdf](https://itshelenxu.github.io/files/papers/eatcs-column.pdf) [EATCS webpage](http://bulletin.eatcs.org/index.php/beatcs/article/view/809){: .btn}
+[pdf](https://itshelenxu.github.io/files/papers/eatcs-column.pdf){: .btn} [EATCS webpage](http://bulletin.eatcs.org/index.php/beatcs/article/view/809){: .btn}
