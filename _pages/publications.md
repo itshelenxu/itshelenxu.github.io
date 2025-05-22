@@ -12,6 +12,7 @@ Publications are listed in reverse chronological order. The most up-to-date list
 Sequences to Genome Graphs.*      
 Aranya Banerjee, Daniel Gibney, **Helen Xu**, and Srinivas Aluru.     
 International Parallel & Distributed Processing Symposium (IPDPS), 2025.
+[pdf](https://itshelenxu.github.io/files/papers/alignment-ipdps-25.pdf){: .btn}
 
 1. <span style="color:blue">**[VLDB '24]**</span> *BYO: A Unified Framework for Benchmarking Large-Scale Graph Containers.*      
 Brian Wheatman, Xiaojun Dong, Zheqi Shen, Laxman Dhulipala, Jakub Łącki, Prashant Pandey, and **Helen Xu**.     
@@ -99,6 +100,7 @@ ACM Symposium on Principles of Database Systems (PODS), 2017.
 1. <span style="color:blue">**[HPEC '24]**</span> *Batch-Parallel Compressed Sparse Row: A Locality-Optimized Dynamic-Graph Representation.*      
 Brian Wheatman, Randal Burns, and **Helen Xu**.     
 IEEE High Performance Extreme Computing Conference (HPEC), 2024.      
+[pdf](https://itshelenxu.github.io/files/papers/bpcsr-hpec-24.pdf){: .btn}
 
 1. <span style="color:blue">**[HPEC '23]**</span> *Optimizing Compression Schemes for Parallel Sparse Tensor Algebra.*       
 **Helen Xu**, Tao B. Schardl, Michael Pellauer, and Joel S. Emer.      
