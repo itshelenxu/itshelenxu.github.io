@@ -11,7 +11,7 @@ Publications are listed in reverse chronological order. The most up-to-date list
 1. <span style="color:blue">**[IPDPS '25]**</span> *A Work-Optimal Parallel Algorithm for Aligning
 Sequences to Genome Graphs.*      
 Aranya Banerjee, Daniel Gibney, **Helen Xu**, and Srinivas Aluru.     
-International Parallel & Distributed Processing Symposium (IPDPS), 2025.
+International Parallel & Distributed Processing Symposium (IPDPS), 2025.     
 [pdf](https://itshelenxu.github.io/files/papers/alignment-ipdps-25.pdf){: .btn}
 
 1. <span style="color:blue">**[VLDB '24]**</span> *BYO: A Unified Framework for Benchmarking Large-Scale Graph Containers.*      
