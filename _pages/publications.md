@@ -8,6 +8,11 @@ author_profile: true
 Publications are listed in reverse chronological order. The most up-to-date list of my publications can be found on my [Google Scholar profile](https://scholar.google.com/citations?user=ZcguQt4AAAAJ&hl=en).
 
 ## Conference publications
+1. <span style="color:blue">**[ICPP '25]**</span> *Bridging Cache-Friendliness and Concurrency: A Locality-Optimized In-Memory B-Skiplist.*      
+Yicong (Eddy) Luo, Senhe Hao, Brian Wheatman, Prashant Pandey, and **Helen Xu**.     
+International Conference on Parallel Processing (ICPP), 2025.        
+[pdf](https://itshelenxu.github.io/files/papers/bskip-draft.pdf){: .btn}
+
 1. <span style="color:blue">**[IPDPS '25]**</span> *A Work-Optimal Parallel Algorithm for Aligning
 Sequences to Genome Graphs.*      
 Aranya Banerjee, Daniel Gibney, **Helen Xu**, and Srinivas Aluru.     
@@ -100,6 +105,7 @@ ACM Symposium on Principles of Database Systems (PODS), 2017.
 1. <span style="color:blue">**[HPEC '24]**</span> *Batch-Parallel Compressed Sparse Row: A Locality-Optimized Dynamic-Graph Representation.*      
 Brian Wheatman, Randal Burns, and **Helen Xu**.     
 IEEE High Performance Extreme Computing Conference (HPEC), 2024.      
+<span style="color:red">**Outstanding student paper.**</span>     
 [pdf](https://itshelenxu.github.io/files/papers/bpcsr-hpec-24.pdf){: .btn} [IEEE](https://ieeexplore.ieee.org/document/10938461){: .btn}
 
 1. <span style="color:blue">**[HPEC '23]**</span> *Optimizing Compression Schemes for Parallel Sparse Tensor Algebra.*       
