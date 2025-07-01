@@ -19,6 +19,8 @@ I am an assistant professor at Georgia Tech in the [School of Computational Scie
 ## News
 <span style="color:blue">**[Jul. '25]**</span> I am co-organizing the [Workshop on Highlights of Parallel Computing (HOPC)](https://sites.gatech.edu/hopc25/) at SPAA '25.
 
+<span style="color:blue">**[Jun. '25]**</span> Our paper "Improving SpGEMM Performance Through Matrix-Reordering and Cluster-wise Computation" has been accepted to SC '25.
+
 <span style="color:blue">**[Jun. '25]**</span> Our paper "Bridging Cache-Friendliness and Concurrency: A Locality-Optimized In-Memory B-Skiplist" has been accepted to ICPP '25.
 
 <span style="color:blue">**[Aug. '24]**</span> Our paper "Batch-Parallel Compressed Sparse Row: A Locality-Optimized Dynamic-Graph Representation" has been accepted to HPEC '24 as an Outstanding Student Paper.
