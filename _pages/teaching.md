@@ -7,6 +7,7 @@ author_profile: true
 
 ## Teaching
 - Courses taught
+  - **[High-Performance Algorithm Engineering]** (GT CSE 8803 / CX 4803): Spring 2026.
   - **[Introduction to High-Performance Computing](https://sites.gatech.edu/cse6220fall24/)** (GT CSE 6220 / CX 4220): Fall 2024, Spring 2025.
   - **[High-Performance Computing: Tools and Applications](https://sites.gatech.edu/cse6230spring24/)** (GT CSE 6230): Spring 2024.
 
@@ -20,7 +21,7 @@ author_profile: true
 ## Student advising at Georgia Tech
 
 - Ph.D.
-  - Senhe Hao (2024 - TBD)
+  - Senhe Hao (2024 - 2025)
   - Yicong (Eddy) Luo (2024 - TBD)
 
 - M.S.
@@ -45,10 +46,10 @@ author_profile: true
 
 ## Service
 - Program committees: SPAA, IPDPS, PPoPP, SC, PACT, ALENEX, SEA, ESA, Euro-Par, ICS, GraPL, HOPC.
-- External reviewing: Algorithmica, STACS, VLDB, JPDC, ICPP, ACDA, WADS, SPAA, EuroPar, SOSA, SODA, ESA.
+- External reviewing: Algorithmica, STACS, VLDB, JPDC, ICPP, ACDA, WADS, SPAA, EuroPar, SOSA, SODA, ESA, TOMS.
 - Artifact/reproducibility reviewing: PPoPP, SIGMOD.
 - Travel Grants Chair for SPAA (2024, 2025), PPoPP (2025).
-- Workshops and Tutorials Chair for SPAA (2025),
+- Workshops and Tutorials Chair for SPAA (2025).
 
 ## Other
 - From 2018-2021, I served as a Communication Fellow providing peer coaching in the [MIT EECS Communication Lab](https://mitcommlab.mit.edu/eecs/).

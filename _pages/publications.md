@@ -11,11 +11,12 @@ Publications are listed in reverse chronological order. The most up-to-date list
 1. <span style="color:blue">**[SC '25]**</span> *Improving SpGEMM Performance Through Matrix-Reordering and Cluster-wise Computation.*      
 Abdullah Al Raqibul Islam, **Helen Xu**, Dong Dai, and Aydın Buluç.     
 The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC), 2025.        
+[arXiv](https://arxiv.org/abs/2507.21253){: .btn}
 
 1. <span style="color:blue">**[ICPP '25]**</span> *Bridging Cache-Friendliness and Concurrency: A Locality-Optimized In-Memory B-Skiplist.*      
 Yicong (Eddy) Luo, Senhe Hao, Brian Wheatman, Prashant Pandey, and **Helen Xu**.     
 International Conference on Parallel Processing (ICPP), 2025.        
-[pdf](https://itshelenxu.github.io/files/papers/bskip-draft.pdf){: .btn}
+[arXiv](https://arxiv.org/html/2507.21492v1){: .btn} [pdf](https://itshelenxu.github.io/files/papers/bskip-draft.pdf){: .btn}
 
 1. <span style="color:blue">**[IPDPS '25]**</span> *A Work-Optimal Parallel Algorithm for Aligning
 Sequences to Genome Graphs.*      
