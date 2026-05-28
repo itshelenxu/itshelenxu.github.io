@@ -107,6 +107,13 @@ ACM Symposium on Principles of Database Systems (PODS), 2017.
 [pdf](https://itshelenxu.github.io/files/papers/wosl-pods-17.pdf){: .btn} [ACM](https://dl.acm.org/doi/10.1145/3034786.3056117){: .btn}
 
 ## Peer-reviewed short publications
+1. <span style="color:blue">**[HPEC '25]**</span> *
+pdGRASS: A Fast Parallel Density-Aware Algorithm for Graph Spectral Sparsification.*      
+Tiancheng Zhao, Zekun Yin, Huihai An, Xiaoyu Yang, Zhou Jin, Jiasi Shen, and **Helen Xu**.     
+IEEE High Performance Extreme Computing Conference (HPEC), 2025.      
+<span style="color:red">**Best student paper.**</span>     
+[arXiv](https://arxiv.org/abs/2508.20403){: .btn}
+
 1. <span style="color:blue">**[HPEC '24]**</span> *Batch-Parallel Compressed Sparse Row: A Locality-Optimized Dynamic-Graph Representation.*      
 Brian Wheatman, Randal Burns, and **Helen Xu**.     
 IEEE High Performance Extreme Computing Conference (HPEC), 2024.      
