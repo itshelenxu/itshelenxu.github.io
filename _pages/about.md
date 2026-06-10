@@ -17,6 +17,8 @@ I am an assistant professor at Georgia Tech in the [School of Computational Scie
 - Software performance engineering
 
 ## News
+<span style="color:blue">**[May '26]**</span> Our paper "C2: Cache-Conscious Succinct Tries with Adaptive Unary Path Compression" has been accepted to EDBT '27. Congratulations Kepan and Tiancheng!
+
 <span style="color:blue">**[Jan '26]**</span> I am teaching a seminar on High-Performance Algorithm Engineering. 
 
 <span style="color:blue">**[Sep.-Dec. '25]**</span> I am visiting the Simons Institute as part of the program on Algorithmic Foundations for Emerging Computing Technologies.

@@ -7,7 +7,7 @@ author_profile: true
 
 ## Teaching
 - Courses taught
-  - **[High-Performance Algorithm Engineering]** (GT CSE 8803 / CX 4803): Spring 2026.
+  - **High-Performance Algorithm Engineering** (GT CSE 8803 / CX 4803): Spring 2026.
   - **[Introduction to High-Performance Computing](https://sites.gatech.edu/cse6220fall24/)** (GT CSE 6220 / CX 4220): Fall 2024, Spring 2025.
   - **[High-Performance Computing: Tools and Applications](https://sites.gatech.edu/cse6230spring24/)** (GT CSE 6230): Spring 2024.
 
