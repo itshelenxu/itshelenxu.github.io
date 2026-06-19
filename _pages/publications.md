@@ -8,15 +8,20 @@ author_profile: true
 Publications are listed in reverse chronological order. The most up-to-date list of my publications can be found on my [Google Scholar profile](https://scholar.google.com/citations?user=ZcguQt4AAAAJ&hl=en).
 
 ## Conference publications
+1. <span style="color:blue">**[EDBT '27]**</span> C2: Cache-Conscious Succinct Tries with Adaptive Unary Path Compression.*      
+Kepan Zhang, Tiancheng Zhao, and **Helen Xu**.     
+The 30th International Conference on Extending Database Technology (EDBT), 2027.        
+[arXiv](https://arxiv.org/pdf/2606.16104){: .btn} [code](https://github.com/alexztc/C2){: .btn}
+
 1. <span style="color:blue">**[SC '25]**</span> *Improving SpGEMM Performance Through Matrix-Reordering and Cluster-wise Computation.*      
 Abdullah Al Raqibul Islam, **Helen Xu**, Dong Dai, and Aydın Buluç.     
 The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC), 2025.        
-[arXiv](https://arxiv.org/abs/2507.21253){: .btn}
+[arXiv](https://arxiv.org/abs/2507.21253){: .btn} [code](https://github.com/PASSIONLab/clusterwise-spgemm){: .btn}
 
 1. <span style="color:blue">**[ICPP '25]**</span> *Bridging Cache-Friendliness and Concurrency: A Locality-Optimized In-Memory B-Skiplist.*      
 Yicong (Eddy) Luo, Senhe Hao, Brian Wheatman, Prashant Pandey, and **Helen Xu**.     
 International Conference on Parallel Processing (ICPP), 2025.        
-[arXiv](https://arxiv.org/html/2507.21492v1){: .btn} [pdf](https://itshelenxu.github.io/files/papers/bskip-draft.pdf){: .btn}
+[arXiv](https://arxiv.org/html/2507.21492v1){: .btn} [pdf](https://itshelenxu.github.io/files/papers/bskip-draft.pdf){: .btn} [code](https://github.com/Ratbuyer/bskip_artifact){: .btn}
 
 1. <span style="color:blue">**[IPDPS '25]**</span> *A Work-Optimal Parallel Algorithm for Aligning
 Sequences to Genome Graphs.*      
@@ -27,13 +32,13 @@ International Parallel & Distributed Processing Symposium (IPDPS), 2025.
 1. <span style="color:blue">**[VLDB '24]**</span> *BYO: A Unified Framework for Benchmarking Large-Scale Graph Containers.*      
 Brian Wheatman, Xiaojun Dong, Zheqi Shen, Laxman Dhulipala, Jakub Łącki, Prashant Pandey, and **Helen Xu**.     
 International Conference on Very Large Data Bases (VLDB), 2024.     
-[arXiv](https://arxiv.org/abs/2405.11671){: .btn} [pdf](https://vldb.org/pvldb/vol17/p2307-wheatman.pdf){: .btn} 
+[arXiv](https://arxiv.org/abs/2405.11671){: .btn} [pdf](https://vldb.org/pvldb/vol17/p2307-wheatman.pdf){: .btn} [code](https://github.com/wheatman/BYO){: .btn} 
 
 1. <span style="color:blue">**[PPoPP '24]**</span> *CPMA: An Efficient Batch-Parallel Compressed Set Without Pointers.*      
 Brian Wheatman, Randal Burns, Aydın Buluç, and **Helen Xu**.     
 ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP), 2024.      
 <span style="color:red">**Best artifact award.**</span>     
-[pdf](https://itshelenxu.github.io/files/papers/cpma-ppopp-24.pdf){: .btn} [ACM](https://dl.acm.org/doi/abs/10.1145/3627535.3638492){: .btn} [arXiv](https://arxiv.org/abs/2305.05055){: .btn}
+[pdf](https://itshelenxu.github.io/files/papers/cpma-ppopp-24.pdf){: .btn} [ACM](https://dl.acm.org/doi/abs/10.1145/3627535.3638492){: .btn} [arXiv](https://arxiv.org/abs/2305.05055){: .btn} [code](https://github.com/wheatman/Packed-Memory-Array){: .btn}
 
 1. <span style="color:blue">**[VLDB '23]**</span> *BP-tree: Overcoming the Point-Range Operation Tradeoff for In-Memory B-trees.*      
 **Helen Xu**, Amanda Li, Brian Wheatman, Manoj Marneni, and Prashant Pandey.     

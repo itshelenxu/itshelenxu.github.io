@@ -4,6 +4,16 @@ title: ""
 permalink: /codes/
 author_profile: true
 ---
+**[C2: Cache-Conscious Tries](https://github.com/alexztc/C2)**        
+from *[C2: Cache-Conscious Succinct Tries with Adaptive Unary Path Compression](https://arxiv.org/pdf/2606.16104)* (EDBT '27)
+
+**[Concurrent B-Skiplist](https://github.com/Ratbuyer/bskip_artifact)**         
+from *[Bridging Cache-Friendliness and Concurrency: A Locality-Optimized In-Memory B-Skiplist](http://arxiv.org/html/2507.21492v1)* (ICPP '25).
+
+**[Hierarchical Clustering for SpGEMM](https://github.com/PASSIONLab/clusterwise-spgemm)**         
+from *[Improving SpGEMM Performance Through Matrix Reordering
+and Cluster-wise Computation](https://arxiv.org/pdf/2507.21253)* (SC '25).
+
 **[BYO](https://github.com/wheatman/BYO)**         
 from *[BYO: A Unified Framework for Benchmarking Large-Scale Graph Containers](https://itshelenxu.github.io/files/papers/byo-vldb-24.pdf)* (VLDB '24).
 
