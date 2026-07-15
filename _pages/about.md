@@ -17,14 +17,18 @@ I am an assistant professor at Georgia Tech in the [School of Computational Scie
 - Software performance engineering
 
 ## News
+<span style="color:blue">**[July '26]**</span> Congratulations to Tiancheng Zhao, who succesfully defended his MS thesis, titled "A Fast Parallel Density-Aware Algorithm for Graph Spectral Sparsification."
+
+<span style="color:blue">**[July '26]**</span> I have received the NSF CAREER award! Thanks to all my mentors and collaborators who made this possible.
+
 <span style="color:blue">**[May '26]**</span> Our paper "C2: Cache-Conscious Succinct Tries with Adaptive Unary Path Compression" has been accepted to EDBT '27. Congratulations Kepan and Tiancheng!
 
-<span style="color:blue">**[Jan '26]**</span> I am teaching a seminar on High-Performance Algorithm Engineering. 
+<span style="color:blue">**[Jan. '26]**</span> I am teaching a seminar on High-Performance Algorithm Engineering (CSE 8803/CX 4803). 
 
 <span style="color:blue">**[Sep.-Dec. '25]**</span> I am visiting the Simons Institute as part of the program on Algorithmic Foundations for Emerging Computing Technologies.
 
-<span style="color:blue">**[Jul. '25]**</span> I am co-organizing the [Workshop on Highlights of Parallel Computing (HOPC)](https://sites.gatech.edu/hopc25/) at SPAA '25.
+<span style="color:blue">**[July '25]**</span> I am co-organizing the [Workshop on Highlights of Parallel Computing (HOPC)](https://sites.gatech.edu/hopc25/) at SPAA '25.
 
-<span style="color:blue">**[Jun. '25]**</span> Our paper "Improving SpGEMM Performance Through Matrix-Reordering and Cluster-wise Computation" has been accepted to SC '25.
+<span style="color:blue">**[June '25]**</span> Our paper "Improving SpGEMM Performance Through Matrix-Reordering and Cluster-wise Computation" has been accepted to SC '25.
 
-<span style="color:blue">**[Jun. '25]**</span> Our paper "Bridging Cache-Friendliness and Concurrency: A Locality-Optimized In-Memory B-Skiplist" has been accepted to ICPP '25.
+<span style="color:blue">**[June '25]**</span> Our paper "Bridging Cache-Friendliness and Concurrency: A Locality-Optimized In-Memory B-Skiplist" has been accepted to ICPP '25.
