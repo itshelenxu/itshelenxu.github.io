@@ -16,7 +16,7 @@ I am an assistant professor at Georgia Tech in the [School of Computational Scie
 - Cache-friendly algorithms and data structures 
 - Software performance engineering
 
-## News
+## Good news, everyone
 <span style="color:blue">**[July '26]**</span> Congratulations to Tiancheng Zhao, who successfully defended his MS thesis, titled "A Fast Parallel Density-Aware Algorithm for Graph Spectral Sparsification"!
 
 <span style="color:blue">**[July '26]**</span> I have received the NSF CAREER award! Thanks to all my mentors and collaborators who made this possible.

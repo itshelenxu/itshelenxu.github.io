@@ -9,7 +9,7 @@ author_profile: true
 - Courses taught
   - **High-Performance Algorithm Engineering** (GT CSE 8803 / CX 4803): Spring 2026.
   - **[Introduction to High-Performance Computing](https://sites.gatech.edu/cse6220fall24/)** (GT CSE 6220 / CX 4220): Fall 2024, Spring 2025.
-  - **[High-Performance Computing: Tools and Applications](https://sites.gatech.edu/cse6230spring24/)** (GT CSE 6230): Spring 2024.
+  - **[High-Performance Computing: Tools and Applications](https://sites.gatech.edu/cse6230spring24/)** (GT CSE 6230): Spring 2024, Fall 2026.
 
 - Courses assisted
   - **[Performance Engineering of Software Systems](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/)**, MIT: Fall 2018, 2017.      
@@ -21,12 +21,13 @@ author_profile: true
 ## Student advising at Georgia Tech
 
 - Ph.D.
-  - Senhe Hao (2024 - 2025)
-  - Yicong (Eddy) Luo (2024 - TBD)
+  - **[Yicong (Eddy) Luo](https://eddyluo.dev/)** (2024 - TBD)
+  - **[Zhimeng Gao](https://zhimengg.github.io/)** (2026 - TBD)
+  - **Pablo Raigoza** (2026 - TBD)
 
 - M.S.
-  - Kepan Zhang (graduated Dec. 2024)
-  - Tiancheng (Alex) Zhao (2024 - TBD)
+  - **Kepan Zhang** (graduated Dec. 2024)
+  - **Tiancheng (Alex) Zhao** (graduated Jul. 2026)
 
 ## Other student advising
 
@@ -45,10 +46,11 @@ author_profile: true
   Computations." Co-advised with Tao B. Schardl.
 
 ## Service
-- Program committees: SPAA, IPDPS, PPoPP, SC, PACT, ALENEX, SEA, ESA, Euro-Par, ICS, GraPL, HOPC.
+- Associate editor: TOPC
+- Program committees: SPAA, IPDPS, PPoPP, SC, PACT, ALENEX, SEA, ESA, Euro-Par, ICS, GraPL, HOPC, HPEC, IA3 (at SC).
 - External reviewing: Algorithmica, STACS, VLDB, JPDC, ICPP, ACDA, WADS, SPAA, EuroPar, SOSA, SODA, ESA, TOMS.
 - Artifact/reproducibility reviewing: PPoPP, SIGMOD.
-- Travel Grants Chair for SPAA (2024, 2025), PPoPP (2025).
+- Travel Grants Chair for SPAA (2024-26), PPoPP (2025-26).
 - Workshops and Tutorials Chair for SPAA (2025).
 
 ## Other
